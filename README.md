@@ -21,7 +21,7 @@ Dataset is too huge to upload in GitHub(approx : 850 MB). Link is provided below
 
 Feature Extraction:
 
-Images resized to 128x128
+- Images resized to 128x128
 Converted to grayscale
 HOG (Histogram of Oriented Gradients) features extracted for edge-based detection
 Model Used:
